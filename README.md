@@ -24,7 +24,7 @@ FranchiseOS includes automated cross-platform startup scripts that handle virtua
 
 ### 🐧 Linux & macOS
 ```bash
-git clone https://github.com/shakeel-777/FranchiseOS.git
+git clone https://github.com/daniskageetha-cell/franchiseos.git
 cd FranchiseOS
 chmod +x run.sh
 ./run.sh
@@ -33,14 +33,14 @@ chmod +x run.sh
 ### 🪟 Windows (Command Prompt or File Explorer)
 Double-click `run.bat` **or** open CMD:
 ```cmd
-git clone https://github.com/shakeel-777/FranchiseOS.git
+git clone https://github.com/daniskageetha-cell/franchiseos.git
 cd FranchiseOS
 run.bat
 ```
 
 ### ⚡ Windows (PowerShell)
 ```powershell
-git clone https://github.com/shakeel-777/FranchiseOS.git
+git clone https://github.com/daniskageetha-cell/franchiseos.git
 cd FranchiseOS
 .\run.ps1
 ```
